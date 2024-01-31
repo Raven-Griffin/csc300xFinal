@@ -3,10 +3,12 @@ body {
     font-size: 14pt;
 }
 
+/* Trinity CSC */
 #nav1 {
-    flex-direction: row;
-   
- 
-        border: 1px solid blue; border-radius: 2px;
+   display: block;
+
       
 }
+
+
+/* Raven CSC */
