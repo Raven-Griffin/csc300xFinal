@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    border: 1px solid #eee; border-radius: 2px;
+   align-items: center;
+   flex-flow:row nowrap;
+   justify-content: center;
+   justify-content: space-evenly;
+    }
+    .flex-item {
+   height: 350px; width: 350px; margin: 10px; text-align: center; font-family: Verdana,
+    Geneva, sans-serif;
+    line-height: 100px; font-size: 30px; color: white;
+    }
+    .box-1 {
+    background-color: antiquewhite;
+    }
+    .box-2 {
+    background-color: #eabfcb;
+    }
+    .box-3 {
+    background-color: #86e6ee;
+    }
+    box-4{
+        background-color: #0c4d53;
+    }
